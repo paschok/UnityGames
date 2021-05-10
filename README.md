@@ -12,3 +12,4 @@ Games built for fun or for a better understanding of Unity and it's components
   - Player can jump, move on the ground and collect coins, that accelarate Player's next jump
   
   
+![First Game](SceneImages/SampleScene-FirstGameEver.png?raw=true "Player Jumps and collects coins")
