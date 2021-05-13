@@ -13,3 +13,12 @@ Games built for fun or for a better understanding of Unity and it's components
   
   
 ![First Game](SceneImages/SampleScene-FirstGameEver.png?raw=true "Player Jumps and collects coins")
+
+<hr>
+
+### MiniBall : 
+  - Player is a ball, that collects rotating coins, counts them and aftr all of the coint are collected Player receives "You Win" message
+  
+  
+![Start of the Game](SceneImages/MiniBall-GameStart.png?raw=true "Player Jumps and collects coins")
+![Win of the Game](SceneImages/MiniBall-GameWin.png?raw=true "Player Jumps and collects coins")
